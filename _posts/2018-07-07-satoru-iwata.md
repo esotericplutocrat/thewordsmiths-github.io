@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This CEO cut his own pay instead of blaming the workers"
-author: ray
+author: rohit
 categories: [ interesting ]
 image: assets/images/satoru-iwata.jpg
 featured: true
