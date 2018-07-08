@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Revelation about Steve Jobs"
-author: rohit
+author: ray
 categories: [ biography ]
 image: assets/images/jobs.jpg
 featured: true
