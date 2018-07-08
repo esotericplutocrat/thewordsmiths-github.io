@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sigmund Freud"
-author: rahul
+author: rohit
 categories: [ interesting ]
 image: assets/images/sg.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Michael Jordan was mocked for being stingy"
-author: rahul
+author: ray
 categories: [ interesting ]
 image: assets/images/mj.jpg
 ---

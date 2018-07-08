@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Billy Joel never sells front row seats in his concerts?"
-author: rahul
+author: rohit
 categories: [ interesting ]
 image: assets/images/billy-joel.jpg
 ---
