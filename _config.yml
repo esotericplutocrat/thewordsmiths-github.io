@@ -1,0 +1,54 @@
+# Site
+name: The Wordsmiths
+description: We quench your thirst for wisdom
+meta_description: " We quench your thirst for wisdom"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+paginate: 15
+baseurl: 
+google_analytics: 'UA-46278016-1'
+disqus: 'demowebsite'
+
+# Authors
+authors:
+  rohit:
+    name: Rohit Naidu
+    display_name: Rohit
+    gravatar: rohit.jpg
+    email: rohitnaidu369@gmail.com
+    web: https://www.esotericplutocrat.tk
+    insta: https://instagram.com/rohit_naidu369
+    description: " I am a wordsmith with a passion for reading and ovethinking. I recently came across this hippie slogan: 'Be realistic, plan for a miracle' "
+  rahul:
+    name: Rahul Sharma
+    display_name: Rahul
+    gravatar: rahul.jpg
+    email: rahuldeimos@gmail.com
+    web: https://www.instagram.com/theunraveler
+    insta: https://www.instagram.com/theunraveler
+    description: "I am a wordsmith who loves poetry, philosophy and peace. Everyone has their own meaning of life; waiting to be unravelled."
+  ray:
+    name: Sudeshna Ray
+    display_name: Sudeshna
+    gravatar: ray.jpg
+    email: ray@gmail.com
+    web: https://thewritingrayven.wordpress.com
+    insta: https://instagram.com/rohit_naidu369
+    description: " I am a wordsmith who is an inquisitive explorer. Check out my blog."
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
+markdown: kramdown
+highlighter: rouge
