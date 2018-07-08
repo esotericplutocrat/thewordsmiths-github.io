@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 paginate: 15
 baseurl: 
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+disqus: 'http-thewordsmiths-tk'
 
 # Authors
 authors:
