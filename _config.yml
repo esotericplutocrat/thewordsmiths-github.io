@@ -5,7 +5,7 @@ meta_description: " We quench your thirst for wisdom"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 paginate: 15
-baseurl: 'http://thewordsmiths.tk/'
+baseurl: 'http://thewordsmiths.tk'
 google_analytics: 'UA-46278016-1'
 disqus: 'http-thewordsmiths-tk'
 
